@@ -1,7 +1,7 @@
 # Tabular-Data-with-HTML-and-CSS
 
 <h3>Function & Description:</h3>
-This is a table I made to explain how to present tabular data on my blog post.I got some Netflix data from Kaggle and really enjoyed using it.
+This is a table I made to explain how to illustrate how to present tabular data on my blog post. I got some Netflix data from Kaggle and really enjoyed using it.
 
 
 <h3>Technology Used:</h3>
