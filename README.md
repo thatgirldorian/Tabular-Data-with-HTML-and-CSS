@@ -19,6 +19,8 @@ https://codechunks.hashnode.dev/how-to-present-tabular-data-with-html-and-css-ck
 
 <h3>Screenshot:</h3>
 
+![red](https://user-images.githubusercontent.com/40691059/77860351-aa415500-7206-11ea-9224-e96a145d33ec.PNG)
+
 
 
 
